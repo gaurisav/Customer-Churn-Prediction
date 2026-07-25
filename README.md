@@ -2,6 +2,12 @@
 
 A machine learning project to predict customer churn for a telecommunications company. Built with Python, Scikit-learn, and Streamlit.
 
+## Problem Statement
+
+Businesses lose revenue when customers stop using their services.
+
+The objective is to build a machine learning model that predicts customer churn and helps businesses identify high-risk customers so that preventive actions can be taken.
+
 ## Project Structure
 
 ```
@@ -16,6 +22,51 @@ Customer-Churn-Prediction
 ├── requirements.txt
 └── README.md
 ```
+## Dataset
+
+Dataset Name:
+IBM Telco Customer Churn
+
+Number of Records:
+7043
+
+Number of Features:
+21
+
+Target Variable:
+Churn (Yes/No)
+...
+
+## Project Structure
+
+```text
+Customer-Churn-Prediction/
+│
+├── data/
+├── notebooks/
+├── src/
+├── models/
+├── images/
+├── reports/
+├── app.py
+├── README.md
+└── requirements.txt
+```
+## Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Train-Test Split
+6. Random Forest Training
+7. Hyperparameter Tuning
+8. Model Evaluation
+9. Explainable AI
+10. Dashboard Deployment
+
+...
+
 
 ## Setup & Usage
 
